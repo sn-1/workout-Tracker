@@ -16,5 +16,5 @@ A consumer will reach their fitness goals quicker when they track their workout 
 ## Check out this app
 [here](https://enigmatic-earth-32841.herokuapp.com)! 
 
-
-
+## Authors
+[GitHub](https://github.com/sn-1)
