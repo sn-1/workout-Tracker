@@ -8,12 +8,13 @@ A consumer will reach their fitness goals quicker when they track their workout 
 ## Technologies Implemented
 
 :one: Bootstrap
-* Express
-* Node.js
-* MongoDB
-* Heroku
+:two: Express
+:three: Node.js
+:four: MongoDB
+:five: Heroku
 
-
+## Check out this app
+[here](https://enigmatic-earth-32841.herokuapp.com)! 
 
 
 
